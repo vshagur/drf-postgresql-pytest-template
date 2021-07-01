@@ -9,7 +9,7 @@ Template for Django Rest Framework projects (PostgreSQL version).
 
 ## Documentation
 
-You can familiarize yourself with the project description and user manual on the [documentation page](https://github.com/vshagur/drf-postgresql-pytest-template/blob/main/docs/documentation.md).
+You can familiarize yourself with the project description and user manual on the [documentation page](https://github.com/vshagur/drf-postgresql-pytest-template/blob/dev/docs/documentation.md).
 
 
 ## Built With
