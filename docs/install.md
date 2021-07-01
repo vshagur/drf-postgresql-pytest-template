@@ -22,8 +22,8 @@ $ sudo ln -s /usr/local/bin/docker-compose /usr/bin/docker-compose
 #### Clone a project from the repository. 
 
 ```
-$ git clone https://github.com/vshagur/wallet-rest-api.git
-$ cd wallet-rest-api/
+$ git clone https://github.com/vshagur/<project_name>.git
+$ cd <project_name>/
 ```
 #### Configuration. 
 
