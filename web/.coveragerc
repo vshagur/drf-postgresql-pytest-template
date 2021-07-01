@@ -1,0 +1,33 @@
+[run]
+omit =
+    *apps.py
+    *manage.py
+    *__init__.py
+    *migrations*
+    *asgi*
+    *wsgi*
+    *admin.py
+    *urls.py
+    */settings/*
+	*conftest.py
+	*yasg.py
+	*tests.py
+
+[report]
+omit =
+    *apps.py
+    *manage.py
+    *__init__.py
+    *migrations*
+    *asgi*
+    *wsgi*
+    *admin.py
+    *urls.py
+    */settings/*
+    *conftest.py
+    *yasg.py
+	*tests.py
+
+fail_under = 70
+show_missing = True
+skip_covered = True
